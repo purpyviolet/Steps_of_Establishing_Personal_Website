@@ -4,5 +4,3 @@
 https://www.bilibili.com/video/BV16A4y1X7vg/
 后续会持续更新
 
-## 我自己的网站实例，欢迎参观（虽然挺拉跨的）
-www.purpyviolet.top
